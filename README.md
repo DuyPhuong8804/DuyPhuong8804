@@ -125,6 +125,8 @@ Applied AI training focused on building, integrating, and evaluating AI applicat
 
 ---
 
+---
+
 ## GitHub activity
 
 <div align="center">
@@ -135,7 +137,6 @@ Applied AI training focused on building, integrating, and evaluating AI applicat
 
 </div>
 
----
 ---
 
 ## Contribution graph
@@ -149,6 +150,8 @@ Applied AI training focused on building, integrating, and evaluating AI applicat
 </picture>
 
 </div>
+
+---
 
 <div align="center">
 
