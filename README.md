@@ -85,7 +85,7 @@ A fashion product recommendation application combining content-based and collabo
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Phuong Duy Bui](https://www.linkedin.com/in/duy-b%C3%B9i-ph%C6%B0%C6%A1ng-53807843a/)
+- **LinkedIn:** [Phuong Duy Bui](https://www.linkedin.com/in/duydark04/)
 - **GitHub:** [DuyPhuong8804](https://github.com/DuyPhuong8804)
 
 ---
