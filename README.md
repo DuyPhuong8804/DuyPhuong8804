@@ -144,9 +144,10 @@ Applied AI training focused on building, integrating, and evaluating AI applicat
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyPhuong8804/DuyPhuong8804/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyPhuong8804/DuyPhuong8804/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DuyPhuong8804/DuyPhuong8804/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DuyPhuong8804/DuyPhuong8804/output/github-snake-dark.svg" />
+  <img alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/DuyPhuong8804/DuyPhuong8804/output/github-snake.svg" />
 </picture>
 
 </div>
