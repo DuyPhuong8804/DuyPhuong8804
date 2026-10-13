@@ -1,4 +1,15 @@
-# Hi there, I'm Phuong Duy Bui 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+%C4%90%E1%BB%97+Ng%E1%BB%8Dc+Phi+%F0%9F%91%8B;AI+Engineer+%C2%B7+LLM+%26+Agentic+Systems;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Evaluation" alt="Typing SVG" />
+
+**Data Science student @ Hanoi University of Mining and Geology · AI20K Build Phase (Cohort 4)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phido0410-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duydark04/)
+[![Email](https://img.shields.io/badge/phido3107@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phuongduy080804@gmail.com)
+[![GitHub](https://img.shields.io/badge/phido0410-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DuyPhuong8804)
+
+</div>
+
 
 ### Aspiring AI Engineer | Data Science Undergraduate | Applied AI Enthusiast
 
@@ -82,11 +93,6 @@ A fashion product recommendation application combining content-based and collabo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuyPhuong8804&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhuong8804&layout=compact&hide_border=true)
-
-### 📫 Connect With Me
-
-- **LinkedIn:** [Phuong Duy Bui](https://www.linkedin.com/in/duydark04/)
-- **GitHub:** [DuyPhuong8804](https://github.com/DuyPhuong8804)
 
 ---
 
